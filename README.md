@@ -46,11 +46,12 @@ This project is open-source!
 
 Thanks for checking out the Greenhouse Monitoring Application! Happy gardening! 🌱
 
+<div style="display: flex;">
 <img src="https://github.com/ArithaBandara/Green-House-application/blob/main/application_/welcome.jpg" alt="Greenhouse" width="250" />
 <img src="https://github.com/ArithaBandara/Green-House-application/blob/main/application_/home.jpg" alt="Greenhouse" width="250" />
 <img src="https://github.com/ArithaBandara/Green-House-application/blob/main/application_/dashbord.jpg" alt="Greenhouse" width="250" />
 <img src="https://github.com/ArithaBandara/Green-House-application/blob/main/application_/weather.jpg" alt="Greenhouse" width="250" />
-
+</div>
 
 
 

@@ -44,7 +44,7 @@ I’d love your input! If you find any bugs, have feature suggestions, or want t
 
 This project is open-source!
 
-Thanks for checking out the Greenhouse Monitoring Application! Happy gardening! 🌱
+Thanks for checking out! Happy gardening! 🌱
 
 <div style="display: flex;">
 <img src="https://github.com/ArithaBandara/Green-House-application/blob/main/application_/welcome.jpg" alt="Greenhouse" width="250" />
